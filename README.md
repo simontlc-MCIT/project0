@@ -1,1 +1,2 @@
 # project0
+I expect to gain a thorough understanding in how computer systems work and insight into what specifications I want to focus on going forward. The experience of using Git has been amazing! The idea of having a repository makes version control and backups highly efficient and less prone to loss and errors. Vagrant is also interesting in a way that using VMs standardizes the developing environment.
